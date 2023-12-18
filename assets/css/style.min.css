@@ -1042,8 +1042,8 @@ footer .container {
 
 @media screen and (max-width: 500px) {
     footer .container {
-        padding-bottom:600px;
-        align-items: center
+        /* padding-bottom:600px; */
+        align-items: center;
     }
 }
 
