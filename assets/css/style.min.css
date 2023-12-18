@@ -201,7 +201,7 @@ section.intro img.picture {
     position: absolute;
     right: -50px;
     pointer-events: none;
-    bottom: -124px;
+    top: 124px;
     z-index: -1
 }
 
