@@ -185,8 +185,8 @@ header .header__links .links__btn:hover {
 }
 
 section.intro {
-    margin-bottom: 419px;
-    margin-top: 261px
+    margin-bottom: 61px;
+    margin-top: 61px
 }
 
 @media screen and (max-width: 500px) {
@@ -331,7 +331,9 @@ section.intro .intro__links .links__link.border:hover {
 }
 
 section.about {
-    margin-bottom: 245px
+    margin-bottom: 85px;
+    margin-top: 85px;
+
 }
 
 @media screen and (max-width: 500px) {
@@ -1154,7 +1156,9 @@ footer .footer__other div {
 }
 
 section.calc {
-    margin-bottom: 368px
+    margin-bottom: 88px;
+    margin-top: 88px;
+
 }
 
 @media screen and (max-width: 500px) {
